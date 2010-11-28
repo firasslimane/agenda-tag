@@ -1,0 +1,94 @@
+body {
+	background-color: #F2F3F0;
+	color: #696969;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	margin: 0;
+	padding: 0;
+	text-align: justify;
+}
+
+#wrapper {
+	margin: 0;
+	padding: 0;
+	width: 960px;
+	margin: 10px auto;
+}
+
+.header {
+	font-size: 40px;
+	width: 240px;
+	text-align: center;
+}
+
+.gps {
+	font-weight: bold;
+	color: #9AB92F;
+}
+
+.container {
+	margin-top: 30px;
+	height: 420px;
+	width: 100%;
+}
+
+.content {
+	border: 1px solid #cccccc;
+	-moz-border-radius: 7px;
+	-webkit-border-radius: 7px;
+	background: #ffffff;
+	margin: 0 20% 0 20%;
+	padding-top: 30px
+}
+
+input {
+	display: block;
+	border: 1px solid #19384c;
+	background-color: #ffffcc;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+}
+
+input:focus {
+	background-color: #FA4100
+}
+
+.button {
+	margin: 20px 20px 20px 80%;
+	padding: 4px;
+	display: block;
+	background-color: #7e7f78;
+	color: #ffffff;
+	font-size: medium;
+	font-weight: bolder;
+	text-decoration: none;
+	text-align: center;
+}
+
+.button:hover {
+	margin: 20px 20px 20px 80%;
+	padding: 4px;
+	display: block;
+	background-color: #FA4100;
+	color: #ffffcc;
+	font-size: medium;
+	font-weight: bolder;
+	text-decoration: none;
+	text-align: center;
+}
+
+.box {
+	width: 80%;
+	height: 60px;
+	margin: 10px auto;
+	background-color: #F3F3EE;
+}
+
+.textbox {
+	text-align: right;
+	width: 30%;
+	margin: 0;
+	padding: 20px 20px 20px 20px;
+	float: left;
+	font-weight: bold
+}
