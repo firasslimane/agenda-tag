@@ -1,0 +1,1 @@
+Asocia contenidos a un tag y una posición geográfica. Genera recordatorios basados en el contexto geográfico del usuario.
